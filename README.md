@@ -47,5 +47,5 @@ Welcome to my GitHub! I'm a passionate developer and aspiring software engineer 
 
 ## 🌐 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kashavenisruthi@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](kashavenisruthi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruthi-kashaveni-6470011b7/)
